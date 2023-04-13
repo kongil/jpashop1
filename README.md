@@ -3,7 +3,7 @@
 
 도메인 모델과 테이블 설계
 <p align="center">
-  <img src="https://github.com/kongil/jpashop1/issues/1#issue-1666606590">
+  <img src="[https://github.com/kongil/jpashop1/issues/1#issue-1666606590](https://user-images.githubusercontent.com/33366628/231801618-ef89f0d7-97d1-4805-ad99-7851ef209e14.png)">
 </p>
 ##주의사항##
 1. 일대다 양방향보단 다대일 양방향을 사용하자.
