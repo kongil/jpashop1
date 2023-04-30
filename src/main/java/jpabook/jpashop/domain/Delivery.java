@@ -8,6 +8,7 @@ import static jakarta.persistence.FetchType.LAZY;
 
 @Entity
 @Getter @Setter
+
 public class Delivery {
 
     @Id @GeneratedValue
